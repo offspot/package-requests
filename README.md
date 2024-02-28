@@ -16,7 +16,7 @@ ZIM files are included in the Kiwix Library and thus largerly available to all.
 
 Example: [Bayard](https://www.bayard-editions.com/) provides thematic books (EPUB, PDF) and Videos as Nautilus [ZIM files](http://library.kiwix.org/?lang=&q=bayard).
 
-## Files package
+## File packages and apps
 
 Files packages are ZIP archives containing a list of files to be offered for download. Those can offer a support web page that describe the files and provide links. If not, a standard file listing is provided.
 
@@ -24,7 +24,7 @@ Files can be anything from content to softwares (specify target platforms in thi
 
 Example: [Nomad Education](https://nomadeducation.fr/) offers an Android application (`.apk`) for mobile users to download and install on their device.
 
-## Application
+## Web instances
 
 Some websites cannot be turned into ZIM files, usually because they use server-side processing: ZIM files are read-only.
 
