@@ -35,7 +35,7 @@ Example: [WikiFundi](https://www.wikifundi.org/) created a wiki-editing training
 
 ## Acceptance policy
 
-We are yet to define an acceptance policy. In the mean time, main criterias are **impact** and **readyness**. The lesser the worke required to integrate, the higher the chances are to be included.
+We are yet to define an acceptance policy. In the mean time, main criterias are **impact** and **readyness**. The lesser work is required to integrate a given package, the higher the chances are that it will be included.
 
 
 ## Catalog
